@@ -1,12 +1,12 @@
 {
-    "name": "@viro-community/react-viro",
+    "name": "wuwu-viro",
     "main": "index.js",
     "version": "2.20.2",
     "license": "MIT",
     "publishConfig": {
         "registry": "https://registry.npmjs.org/"
     },
-    "repository": "git@github.com:virocommunity/viro.git",
+    "repository": "git@github.com:WuWu-Industries/viro.git",
     "description": "Official community version of react-viro",
     "scripts": {
         "start": "echo 'I dont think you meant to run npm start here.'",
